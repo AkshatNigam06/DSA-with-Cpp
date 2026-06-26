@@ -13,6 +13,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
@@ -20,4 +21,8 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | ------- |
 | [0050-powx-n](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0231-power-of-two) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

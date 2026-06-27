@@ -26,12 +26,26 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | ------- |
 | [0053-maximum-subarray](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

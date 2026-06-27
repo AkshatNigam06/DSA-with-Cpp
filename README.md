@@ -24,5 +24,14 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

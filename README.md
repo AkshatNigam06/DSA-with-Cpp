@@ -29,6 +29,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0238-product-of-array-except-self) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,4 +60,8 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

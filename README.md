@@ -26,6 +26,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0075-sort-colors) |
@@ -66,6 +67,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0088-merge-sorted-array) |
 ## Greedy

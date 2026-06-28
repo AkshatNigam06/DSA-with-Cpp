@@ -10,6 +10,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | [0007-reverse-integer](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0231-power-of-two) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |

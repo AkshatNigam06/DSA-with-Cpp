@@ -70,6 +70,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | [0031-next-permutation](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
@@ -95,5 +96,6 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->

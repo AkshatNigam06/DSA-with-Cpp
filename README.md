@@ -98,7 +98,6 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | [0410-split-array-largest-sum](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0852-peak-index-in-a-mountain-array) |
-
 ## String
 |  |
 | ------- |
@@ -128,4 +127,8 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0204-count-primes) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->

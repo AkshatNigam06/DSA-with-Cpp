@@ -102,6 +102,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0182-duplicate-emails) |
+| [0196-delete-duplicate-emails](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0196-delete-duplicate-emails) |
 ## String
 |  |
 | ------- |

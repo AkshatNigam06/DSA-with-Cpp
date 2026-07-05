@@ -13,6 +13,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | [0204-count-primes](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2965-find-missing-and-repeated-values](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | [0410-split-array-largest-sum](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -62,6 +64,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | ------- |
 | [0169-majority-element](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0567-permutation-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -145,4 +148,5 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | [0054-spiral-matrix](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->

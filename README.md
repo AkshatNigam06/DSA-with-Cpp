@@ -28,6 +28,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0018-4sum) |
@@ -63,6 +64,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/2965-find-missing-and-repeated-values) |

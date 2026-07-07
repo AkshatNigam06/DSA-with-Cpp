@@ -45,6 +45,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | [0204-count-primes](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -91,6 +92,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | [0088-merge-sorted-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0567-permutation-in-string) |

@@ -12,6 +12,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | [0050-powx-n](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
@@ -25,6 +26,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | ------- |
 | [0050-powx-n](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -62,6 +64,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | [0053-maximum-subarray](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,4 +159,8 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | [0074-search-a-2d-matrix](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/2965-find-missing-and-repeated-values) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

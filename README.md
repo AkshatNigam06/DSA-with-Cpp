@@ -38,6 +38,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | [0018-4sum](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0053-maximum-subarray) |
@@ -76,6 +77,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/2965-find-missing-and-repeated-values) |
@@ -163,6 +165,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0240-search-a-2d-matrix-ii) |
@@ -174,6 +177,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0078-subsets) |

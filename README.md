@@ -59,6 +59,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1331-rank-transform-of-an-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/1331-rank-transform-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -80,6 +81,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | [0037-sudoku-solver](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0567-permutation-in-string) |
+| [1331-rank-transform-of-an-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/1331-rank-transform-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -89,6 +91,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | [0075-sort-colors](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0169-majority-element) |
+| [1331-rank-transform-of-an-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/1331-rank-transform-of-an-array) |
 ## Counting
 |  |
 | ------- |

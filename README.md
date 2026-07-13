@@ -160,6 +160,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/1291-sequential-digits) |
 ## Number Theory
 |  |
 | ------- |

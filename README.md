@@ -73,6 +73,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | ------- |
 | [0053-maximum-subarray](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0509-fibonacci-number) |
 ## Hash Table
@@ -136,6 +137,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0443-string-compression) |
@@ -187,4 +189,5 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | [0051-n-queens](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->

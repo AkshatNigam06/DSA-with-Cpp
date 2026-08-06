@@ -51,6 +51,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | [0090-subsets-ii](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0238-product-of-array-except-self) |
@@ -110,6 +111,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | [0088-merge-sorted-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0443-string-compression) |
@@ -129,6 +131,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0540-single-element-in-a-sorted-array) |

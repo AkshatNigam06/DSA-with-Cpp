@@ -61,6 +61,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | [0410-split-array-largest-sum](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1331-rank-transform-of-an-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/1331-rank-transform-of-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/2596-check-knight-tour-configuration) |
@@ -129,6 +130,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0724-find-pivot-index) |
 ## Binary Search
 |  |
 | ------- |

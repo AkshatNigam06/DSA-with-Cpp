@@ -86,6 +86,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0567-permutation-in-string) |
@@ -146,6 +147,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0151-reverse-words-in-a-string) |
@@ -166,6 +168,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0643-maximum-average-subarray-i) |
 ## Enumeration

@@ -65,6 +65,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | [0704-binary-search](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/1331-rank-transform-of-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/2965-find-missing-and-repeated-values) |
@@ -102,6 +103,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | [0088-merge-sorted-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0169-majority-element) |
 | [0611-valid-triangle-number](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0611-valid-triangle-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/1331-rank-transform-of-an-array) |
 ## Counting
 |  |
@@ -124,6 +126,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | [0443-string-compression](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0611-valid-triangle-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |

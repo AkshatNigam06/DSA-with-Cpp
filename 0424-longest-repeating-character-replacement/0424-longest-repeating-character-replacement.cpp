@@ -1,31 +1,53 @@
 class Solution {
 public:
-    int characterReplacement(string s, int k) {
-        vector<int> freq(26, 0);
+    int find(vector<int>& a) {
+        int maxc = -1;
 
-        int low = 0;
-        int maxFreq = 0;
-        int ans = 0;
-
-        for (int high = 0; high < s.size(); high++) {
-
-            freq[s[high] - 'A']++;
-
-            maxFreq = max(maxFreq, freq[s[high] - 'A']);
-
-            // characters that need replacement
-            int changes = (high - low + 1) - maxFreq;
-
-            while (changes > k) {
-                freq[s[low] - 'A']--;
-                low++;
-
-                changes = (high - low + 1) - maxFreq;
-            }
-
-            ans = max(ans, high - low + 1);
+        for (int i = 0; i < 256; i++) {
+            maxc = max(maxc, a[i]);
         }
 
-        return ans;
+        return maxc;
+    }
+
+    int characterReplacement(string s, int k) {
+
+        int n = s.size();
+
+        vector<int> f(256, 0);
+
+        int low = 0;
+        int high = 0;
+        int res = INT_MIN;
+
+        for (high = 0; high < n; high++) {
+
+            f[s[high]]++;
+
+            int maxcnt = find(f);
+
+            int len = high - low + 1;
+
+            int diff = len - maxcnt;
+
+            while (diff > k) {
+
+                f[s[low]]--;
+
+                low++;
+
+                maxcnt = find(f);
+
+                len = high - low + 1;
+
+                diff = len - maxcnt;
+            }
+
+            len = high - low + 1;
+
+            res = max(res, len);
+        }
+
+        return res;
     }
 };

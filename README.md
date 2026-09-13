@@ -95,6 +95,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0169-majority-element) |
+| [0424-longest-repeating-character-replacement](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/1331-rank-transform-of-an-array) |
@@ -170,6 +171,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | [0131-palindrome-partitioning](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -188,6 +190,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0904-fruit-into-baskets) |

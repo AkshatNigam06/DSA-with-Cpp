@@ -41,6 +41,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 | [0027-remove-element](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0046-permutations) |
@@ -157,6 +158,7 @@ Collection of LeetCode DSA solutions in C++ with detailed explanations, optimize
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AkshatNigam06/DSA-with-Cpp/tree/master/0209-minimum-size-subarray-sum) |
